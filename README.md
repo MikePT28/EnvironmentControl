@@ -5,6 +5,9 @@
 The main goal of this project is to have just one build in your Adhoc share medium. To reduce the consumed space that comes as a side effect of having many environments in one app.
 The idea is that with just one build you could switch between the different environments with relative ease.
 
+Example image:
+![alt tag](https://github.com/MikePT28/EnvironmentControl/blob/master/WikiAssets/Steps.jpg?raw=true)
+
 ##How is this project set up?
 
 Right now the project consists on 2 targets: Release and CI (Continuous integration) -just like before on most projects-, and 5 schemas (this is the new part): Release, Test, Stage, Prod and Share.
