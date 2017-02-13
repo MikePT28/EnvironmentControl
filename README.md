@@ -26,7 +26,7 @@ It is important to note that the Share schema **does not** implement this variab
 
 ###How do you notify the environment changed?
 
-Right now there's a control property called: ***shouldForceRestart**. If this property is **true**, an alert view will be displayed on top of the window blocking further use of the app and requiring the app to be killed and restarted. Else, if the property is **false**, a notification is propagates and can be subscribed to from where needed.
+Right now there's a control property called: **shouldForceRestart**. If this property is **true**, an alert view will be displayed on top of the window blocking further use of the app and requiring the app to be killed and restarted. Else, if the property is **false**, a notification is propagates and can be subscribed to from where needed.
 
 ###What else can it do?
 
