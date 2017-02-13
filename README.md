@@ -44,7 +44,7 @@ The benefits from using this would be:
 
 1. Easier to change environments, no need to install a new build. 
 
-1. Less space used on OTHAShare, because we only need to have 1 build for all the environments. (This does not apply to test features that are not merged with the develop branch)
+1. Less space used on your Share drive, because we only need to have 1 build for all the environments. (This does not apply to test features that are not merged with the develop branch)
 
 1. No need for MACROS (which are weird to use in swift for some reason)
 
